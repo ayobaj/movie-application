@@ -2,18 +2,18 @@ import { NavLink } from "react-router-dom"
 // import { IoIosSearch } from "react-icons/io";
 import { SiThemoviedatabase } from "react-icons/si";
 
-
+import { MdMovieFilter } from "react-icons/md";
 
 const NavBar = () => {
 
     return (
 
-        <div className="navbar flex  justify-center mb-6 pt-3">
+        <div className="navbar flex  justify-center mb-6 pt-3 ">
 
             <div className=" flex mt-6">
 
             <div className="flex gap-12 justify-center text-[80px]">
-            <NavLink to={'/'} className='font-semibold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-[#EB568E] from-30%  to-[#1447E3] text-[#EB568E]'><SiThemoviedatabase/></NavLink>
+            <NavLink to={'/'} className='font-semibold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-[#EB568E] from-30%  to-[#1447E3] text-[#EB5]'><SiThemoviedatabase /></NavLink>
             </div>
 
             </div>
