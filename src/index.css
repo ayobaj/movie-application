@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .home:hover{
+    box-shadow: 0px 10px 10px;
+    cursor: pointer;
+} */
