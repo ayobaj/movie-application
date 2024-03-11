@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom"
 // import { IoIosSearch } from "react-icons/io";
 import { SiThemoviedatabase } from "react-icons/si";
 
-import { MdMovieFilter } from "react-icons/md";
+
 
 const NavBar = () => {
 
